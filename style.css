@@ -6,6 +6,7 @@
 body{
     font-family: Arial,sans-serif;
     min-height: 100vh;
+    background-color: rgba(0,0,0,0.8);
 }
 .container{
     padding: 10px;
