@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial,sans-serif;
+    min-height: 100vh;
+}
+.container{
+    padding: 10px;
+    background: rgb(255, 216, 143);
+    height: 22em;
+    margin-top: 200px;
+    margin-right: 85vh;
+    margin-left: 82vh;
+    border-radius: 10px;
+}
+.img-cont{
+    width: 14rem;
+    margin-right: 5px;
+}
+.img{
+    height: 12rem;
+    border-radius: 10px;
+    width: 100%;
+}
+.head{
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
+.context{
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 11px;
+    text-align: center;
+}
